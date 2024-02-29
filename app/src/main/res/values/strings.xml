@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RVA</string>
+    <string name="s">S.</string>
+    <string name="first_of_thefew_steps_toset_you_up_with_a_bank_account">First of thefew steps toset you up with a Bank Account</string>
+    <string name="i_don_t_have_pan">I don\'t have PAN</string>
+    <string name="next">NEXT</string>
+    <string name="already_have_an_account">Providing Pan and Date of birth help us find and fetch your KYC from a central registry by the Government of India <font color='#0000ff'>Learn More</font></string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+
+</resources>
